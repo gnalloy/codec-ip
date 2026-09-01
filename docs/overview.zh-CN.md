@@ -19,10 +19,12 @@
 - `gnalloy.org/codec-ip`（`ip`）
 
 ## 直接 Gnalloy 依赖
+
 - `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-raw`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/examples`
 
 ## 架构位置

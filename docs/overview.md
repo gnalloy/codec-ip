@@ -19,10 +19,12 @@ This module sits above transports and below application handlers. It translates 
 - `gnalloy.org/codec-ip` (`ip`)
 
 ## Direct Gnalloy Dependencies
+
 - `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-raw`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/examples`
 
 ## Architecture Position
